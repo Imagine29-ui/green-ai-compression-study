@@ -1,0 +1,10 @@
+transformers
+datasets
+scikit-learn
+pandas
+matplotlib
+codecarbon
+torch
+peft          # Kaggle-side only (fine-tuning/quantization)
+bitsandbytes  # Kaggle-side only (fine-tuning/quantization)
+accelerate    # Kaggle-side only (fine-tuning/quantization)
